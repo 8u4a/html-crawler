@@ -1,0 +1,11 @@
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.csproj.CoreCompileInputs.cache
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.AssemblyInfoInputs.cache
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.AssemblyInfo.cs
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\bin\Debug\netcoreapp2.1\html-crawler.deps.json
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\bin\Debug\netcoreapp2.1\html-crawler.runtimeconfig.json
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\bin\Debug\netcoreapp2.1\html-crawler.runtimeconfig.dev.json
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\bin\Debug\netcoreapp2.1\html-crawler.dll
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\bin\Debug\netcoreapp2.1\html-crawler.pdb
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.dll
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.pdb
+D:\Zapps\Proiecte_with_B\html-crawler\html-crawler\html-crawler\html-crawler\obj\Debug\netcoreapp2.1\html-crawler.csprojAssemblyReference.cache
